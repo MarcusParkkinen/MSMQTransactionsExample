@@ -1,0 +1,12 @@
+c:\users\marcus\documents\visual studio 2013\Projects\MsmqApp\MsmqApp\bin\Debug\MsmqApp.exe.config
+c:\users\marcus\documents\visual studio 2013\Projects\MsmqApp\MsmqApp\bin\Debug\MsmqApp.exe
+c:\users\marcus\documents\visual studio 2013\Projects\MsmqApp\MsmqApp\bin\Debug\MsmqApp.pdb
+c:\users\marcus\documents\visual studio 2013\Projects\MsmqApp\MsmqApp\obj\Debug\MsmqApp.csprojResolveAssemblyReference.cache
+c:\users\marcus\documents\visual studio 2013\Projects\MsmqApp\MsmqApp\obj\Debug\MsmqApp.exe
+c:\users\marcus\documents\visual studio 2013\Projects\MsmqApp\MsmqApp\obj\Debug\MsmqApp.pdb
+C:\Users\Marcus\Documents\GitHubVisualStudio\MSMQTransactionsExample\MsmqApp\bin\Debug\MsmqApp.exe.config
+C:\Users\Marcus\Documents\GitHubVisualStudio\MSMQTransactionsExample\MsmqApp\obj\Debug\MsmqApp.exe
+C:\Users\Marcus\Documents\GitHubVisualStudio\MSMQTransactionsExample\MsmqApp\obj\Debug\MsmqApp.pdb
+C:\Users\Marcus\Documents\GitHubVisualStudio\MSMQTransactionsExample\MsmqApp\bin\Debug\MsmqApp.exe
+C:\Users\Marcus\Documents\GitHubVisualStudio\MSMQTransactionsExample\MsmqApp\bin\Debug\MsmqApp.pdb
+C:\Users\Marcus\Documents\GitHubVisualStudio\MSMQTransactionsExample\MsmqApp\obj\Debug\MsmqApp.csprojResolveAssemblyReference.cache
